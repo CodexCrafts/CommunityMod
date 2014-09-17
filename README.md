@@ -41,5 +41,7 @@ Extras
 ======
 
 Make suggestions at our forum page: LINK TO COME
+
 How to Install Forge: http://www.minecraftforge.net/wiki/Installation/Source
+
 Modding Tutorials: http://www.minecraftforge.net/wiki/Tutorials
