@@ -7,9 +7,6 @@ This Repository will hold a community made mod for Minecraft.
 
 To contribute to the mod simply download, make your changes and then make a pull request. All changes will be merged manually, so they may take a while to appear in the main branch.
 
-Guidlines
-=========
-
 New to Modding
 ==============
 
